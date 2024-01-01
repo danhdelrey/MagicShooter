@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HealingPool
+  - ShieldPool
+  - BuffPool
+  - FxTemporaire
+  - PlayerHealthCanvas
+  - PlayerGuns
+  - ElectroHit
+  - StarHit
+  - HolyHit
+  - LoveHit
+  - GreenHit
+  - StonesHit
+  - SnowHit
+  - EnergyBallHit
+  - SuperEnergyBallHit
+  - SlowDownPool
+  - EnemyDeathEffectPool
+  - DarkEnergyHitPool
+  - FireBallHitPool
+  - PurpleCloudHitPool
+  - DarkEnergyPool
+  - FireBallPool
+  - PurpleCloudPool
+  - PoisonCloudHitPool
+  - PoisonCloudPool
+  - ColdBluePool
+  - ColdBlueHitPool
+  - PoisonPool
+  - PoisonHitPool
+  - DeathHitPool
+  - DeathHitHitPool
+  - DeathHitMuzzleFlashPool
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PlayerBullet
+  - EnemyBullet
+  - Player
+  - Enemy
+  - SupportItems
+  - Boss
+  - DeathZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 625574319
+    locked: 0
+  - name: Boss
+    uniqueID: 3170023047
+    locked: 0
+  - name: BabyBossa
+    uniqueID: 2216021247
+    locked: 0
